@@ -48,4 +48,4 @@ npm start
 ```
 
 ## Contact
-Created by [@Samrood]([url](https://www.linkedin.com/in/samrood-a-93b148227/) - feel free to contact me!
+Created by [@Samrood](https://www.linkedin.com/in/samrood-a-93b148227/) - feel free to contact me!
