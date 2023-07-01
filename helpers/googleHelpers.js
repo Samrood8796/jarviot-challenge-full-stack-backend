@@ -1,7 +1,6 @@
 import { google } from "googleapis";
 import oauth2Client from "../config/oauth2Client.js";
 import Token from "../models/Token.js";
-import axios from "axios";
 export const getAnalyticData = (id) => {
     return new Promise(async (resolve, reject) => {
 

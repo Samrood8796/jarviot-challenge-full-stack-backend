@@ -1,7 +1,5 @@
-import { google } from "googleapis";
 import oauth2Client from "../config/oauth2Client.js";
-import Token from "../models/Token.js";
-import { getAnalyticData, getNewToken, getTokensFromGoogle, revokeTOken } from "../helpers/googleHelpers.js";
+import { getAnalyticData, getTokensFromGoogle, revokeTOken } from "../helpers/googleHelpers.js";
 
 export const authGoogle = async (req, res) => {
     try {

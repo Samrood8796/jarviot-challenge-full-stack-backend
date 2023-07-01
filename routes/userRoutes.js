@@ -1,5 +1,5 @@
 import express from 'express'
-import { analytics, authGoogle, callbackUrl, newToken, revoke } from '../cotrollers/userControllers.js'
+import { analytics, authGoogle, callbackUrl, revoke } from '../cotrollers/userControllers.js'
 
 const router = express.Router()
 
